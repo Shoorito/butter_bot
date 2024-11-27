@@ -1,0 +1,8 @@
+<DataList data_id="TBL_Command" created_time="2024-11-25 19:35:59">
+  <Row IDN="1" ID="COMMAND_INFO" CommandType="Info" />
+  <Row IDN="2" ID="COMMAND_TALK" CommandType="Talk" />
+  <Row IDN="3" ID="COMMAND_SLEEP" CommandType="Sleep" />
+  <Row IDN="4" ID="COMMAND_WAKE_UP" CommandType="WakeUp" />
+  <Row IDN="5" ID="COMMAND_REFRESH" CommandType="Refresh" />
+  <Row IDN="6" ID="COMMAND_ADD_USABLE_USER" CommandType="AddUsableUser" />
+</DataList>

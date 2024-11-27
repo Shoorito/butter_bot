@@ -1,0 +1,21 @@
+﻿//////////////////////////////////////////////////////////////////////////
+//
+// GlobalData
+// 
+// Created by Shoori.
+//
+// Copyright 2024 SongMyeongWon.
+// All rights reserved
+//
+//////////////////////////////////////////////////////////////////////////
+// Version 1.0
+//
+//////////////////////////////////////////////////////////////////////////
+
+//----------------------------------------------------------------------------------
+public static class GlobalData
+{
+    public static string GET_EKEY => _asdjiowgvwoe;
+
+    private static string _asdjiowgvwoe = "z%7+1}-m";
+}

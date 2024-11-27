@@ -1,0 +1,29 @@
+<DataList data_id="ClientText" created_time="2024-11-25 19:35:59" language="KR">
+  <TBL_Talk_Description>
+    <Row ID="MESSAGE_NON_USABLE_USER_ALERT_Awake" Description="히이익.. 교쭈님이 모르는 사람이랑 대화하지 말랬어요..!" />
+    <Row ID="MESSAGE_NON_USABLE_USER_ALERT_Sleep" Description="(버터는 자고 있지만... 내가 다가가니 악몽을 꾸는 듯 하다... 버터와 친해질 방법을 아는'누군가'에게 찾아가보자...)" />
+    <Row ID="MESSAGE_NORMAL_TALK_1_WakeUp" Description="버터가 놀라운걸 개발했어여! 바로.. 사료캔을 쉽게 열수 있는 기계!!&#xA;이건 세기의 발명이 될게 분명해요!!&#xA;(버터는 조악하게 만들어진 캔따개를 들고 있다...)" />
+    <Row ID="MESSAGE_NORMAL_TALK_2_WakeUp" Description="교쭈님은 인간이라고 하셨는데, 왜 사료를 좋아하시는 건가요?" />
+    <Row ID="MESSAGE_NORMAL_TALK_3_WakeUp" Description="어디서 사료 냄새 나지 않나요?" />
+    <Row ID="MESSAGE_NORMAL_TALK_4_WakeUp" Description="좋은 날씨에여! 같이 산책가여!" />
+    <Row ID="MESSAGE_NORMAL_TALK_Sleep" Description="(폭신한 배개에 누워서 자는 버터가 보인다.. 곤히 자고 있는 듯하니 깨우지 말자)" />
+    <Row ID="COMMAND_SLEEP_TALK_Awake" Description="오늘은 이만 집에 가볼게여! 내일 또 봐여!" />
+    <Row ID="COMMAND_SLEEP_TALK_Sleep" Description="(버터는 집에 돌아갔다, 버터를 깨우지 않는 이상 얘기할 수 없다)" />
+    <Row ID="COMMAND_WAKE_UP_TALK_Awake" Description="교쭈님? 버터 집에는 왜 가려구요? 저랑 같이 놀아요!" />
+    <Row ID="COMMAND_WAKE_UP_TALK_Sleep" Description="(수인 마을의 버터 집에 방문했다, 문을 두드리니 버터가 눈을 비비며 나온다)&#xA;안녕하세여 교쭈님.. 흐아암.. 좋은 아침이에여!" />
+    <Row ID="MESSAGE_UNKNOWN_COMMAND" Description="뭐라고 말씀하시는지 버터는 모르겠어여…" />
+    <Row ID="COMMAND_SHOW_INFO" Description="(이전에 마을에서 주운 수첩을 본다, 수첩에는 버터와 대화하는 법이라고 적혀있다...)" />
+    <Row ID="COMMAND_SHOW_INFO_Info" Description="1. !버터 명령어: 버터와 대화하는 방법을 알려준다, 명령어 내용은 매 업데이트 마다 변경된다" />
+    <Row ID="COMMAND_SHOW_INFO_Talk" Description="2. !버터 이야기하자: 버터가 일상적인 이야기를 건넨다, 버터와 친해지면 더 많은 이야기를 나눌 수 있다" />
+    <Row ID="COMMAND_SHOW_INFO_Sleep" Description="3. !버터 집에가: 졸린 버터를 집으로 보낸다, 본 명령어를 실행하면 버터가 자리비움 상태가 된다, 버터를 다시 깨우기 전까지 대화 할 수 없다" />
+    <Row ID="COMMAND_SHOW_INFO_WakeUp" Description="4. !버터 일어나: 버터를 깨우러 간다, 본 명령어를 실행하면 버터가 온라인 상태가 된다" />
+    <Row ID="COMMAND_SHOW_INFO_Refresh" Description="5. !버터 휴식: 버터와 산책한다, 본 명령어를 실행하면 버터의 데이터를 업데이트한다" />
+    <Row ID="COMMAND_SHOW_INFO_AddUsableUser" Description="6. !버터 친구추가: 버터에게 새로운 친구를 소개한다, 소개한 친구는 버터하고 얘기할 수 있게 된다" />
+    <Row ID="COMMAND_REFRESH_TALK" Description="(버터를 데리고 산책에 나섰다, 산책을 통해 버터의 머릿속이 정리되었다!)" />
+    <Row ID="COMMAND_ADD_USABLE_USER" Description="(버터에게 새로운 친구 {0}을 소개시켜 주었다, 버터가 꼬리를 살랑살랑 흔든다)" />
+    <Row ID="COMMAND_ADD_USABLE_USER_SUCCESS" Description="{0}님 저는 버터에여! 잘부탁해여!" />
+    <Row ID="COMMAND_ADD_USABLE_USER_FAIL" Description="(버터가 갑자기 자리를 피했다, 낯을 가리는 것 같으니 잠시후 다시 시도하자…)" />
+    <Row ID="MESSAGE_ALREADY_USABLE_USER" Description="버터랑 {0}는 이미 친구에여!" />
+    <Row ID="COMMAND_PARAM_ERROR_AddUsableUser" Description="새로운 친구분의 이름을 알려주셔야 저도 친구분께 인사할 수 있어요!" />
+  </TBL_Talk_Description>
+</DataList>

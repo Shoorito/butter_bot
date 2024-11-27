@@ -1,0 +1,29 @@
+<DataList data_id="ClientText" created_time="2024-11-25 19:35:59" language="JP">
+  <TBL_Talk_Description>
+    <Row ID="MESSAGE_NON_USABLE_USER_ALERT_Awake" Description="ひぃぃっ… 教祖様が知らない人と話すなって言ってました…！" />
+    <Row ID="MESSAGE_NON_USABLE_USER_ALERT_Sleep" Description="バターは寝ているけど… 私が近づくと悪夢を見ているみたいだ… バターと仲良くなる方法を知っている「誰か」に会いに行こう…" />
+    <Row ID="MESSAGE_NORMAL_TALK_1_WakeUp" Description="バターが驚くべきものを開発したんです！それは… 缶詰を簡単に開けられる機械！！&#xA;これは世紀の発明になること間違いなしです！！&#xA;（バターは粗雑に作られた缶切りを持っている…）" />
+    <Row ID="MESSAGE_NORMAL_TALK_2_WakeUp" Description="教祖様は人だとおっしゃいましたが、どうして飼料がお好きなんですか？" />
+    <Row ID="MESSAGE_NORMAL_TALK_3_WakeUp" Description="どこかで飼料の匂いがしませんか？" />
+    <Row ID="MESSAGE_NORMAL_TALK_4_WakeUp" Description="いい天気ですね！ 一緒に散歩に行きましょう！" />
+    <Row ID="MESSAGE_NORMAL_TALK_Sleep" Description="（ふんわりとした枕に寝そべっているバターが見える.. ぐっすり寝ているようだから起こさないようにしよう）" />
+    <Row ID="COMMAND_SLEEP_TALK_Awake" Description="今日はこれで家に帰ります！ また明日会いましょう！" />
+    <Row ID="COMMAND_SLEEP_TALK_Sleep" Description="(バターは家に帰った。バターを起こさない限り話せない)" />
+    <Row ID="COMMAND_WAKE_UP_TALK_Awake" Description="教祖様？バターの家にはなぜ行くんですか？ 私と一緒に遊びましょう！" />
+    <Row ID="COMMAND_WAKE_UP_TALK_Sleep" Description="(獣人の村にあるバターの家を訪れた。ドアをノックすると、バターが目をこすりながら出てきた)&#xA;おはようございます、教祖様… ふわぁぁ… 良い朝ですね！" />
+    <Row ID="MESSAGE_UNKNOWN_COMMAND" Description="何とおっしゃっているのかバターはわかりません···" />
+    <Row ID="COMMAND_SHOW_INFO" Description="(以前町で拾った手帳を見る、手帳にはバターとの対話の仕方と書かれている。。)" />
+    <Row ID="COMMAND_SHOW_INFO_Info" Description="1. !バタ コマンド: バターと会話する方法を教えます。コマンドの内容は毎回のアップデートで変更されます。" />
+    <Row ID="COMMAND_SHOW_INFO_Talk" Description="2. !バタ 話そう: バターが日常的な話をしてくれます。バターと仲良くなると、もっとたくさんの話をすることができます。" />
+    <Row ID="COMMAND_SHOW_INFO_Sleep" Description="3. !バタ 家に帰る: 眠そうなバターを家に送ります。このコマンドを実行すると、バターが離席状態になります。バターを再び起こすまで会話することはできません。" />
+    <Row ID="COMMAND_SHOW_INFO_WakeUp" Description="4. !バタ 起きて: バターを起こしに行きます。このコマンドを実行すると、バターがオンライン状態になります。" />
+    <Row ID="COMMAND_SHOW_INFO_Refresh" Description="5. !バタ 休憩: バターと散歩をします。このコマンドを実行すると、バターのデータが更新されます。" />
+    <Row ID="COMMAND_SHOW_INFO_AddUsableUser" Description="（バターを連れて散歩に出かけました。散歩を通じてバターの頭の中が整理されました！）" />
+    <Row ID="COMMAND_REFRESH_TALK" Description="（バターに新しい友達{0}を紹介しました。バターは尻尾をふりふりしています。）" />
+    <Row ID="COMMAND_ADD_USABLE_USER" Description="{0}さん、私はバターです！よろしくお願いします！" />
+    <Row ID="COMMAND_ADD_USABLE_USER_SUCCESS" Description="（バターが突然その場を離れました。人見知りしているようなので、しばらくしてからまた試してみましょう…）" />
+    <Row ID="COMMAND_ADD_USABLE_USER_FAIL" Description="6. !バタ 友達追加: バターに新しい友達を紹介します。紹介された友達はバターと話せるようになります。" />
+    <Row ID="MESSAGE_ALREADY_USABLE_USER" Description="バターと{0}はすでに友達です！" />
+    <Row ID="COMMAND_PARAM_ERROR_AddUsableUser" Description="新しい友達の名前を教えてくれないと私も友達に挨拶できません！" />
+  </TBL_Talk_Description>
+</DataList>

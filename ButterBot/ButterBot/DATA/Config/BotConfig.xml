@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ButterBotConfig BotToken="" Administrator="">
+  <DBConnectionInfo server_name ="" db_name="" user_id="" password="" />
+  <PrefixRegionInfos>
+    <PrefixRegionInfo Key="!버터" Value="KR" />
+    <PrefixRegionInfo Key="!Butter" Value="US" />
+    <PrefixRegionInfo Key="!バタ" Value="JP" />
+  </PrefixRegionInfos>
+  <UsableChannels Enable="True">
+    <Channel Name="버터봇과_이야기하기" />
+    <Channel Name="버터랑_얘기해요" />
+  </UsableChannels>
+</ButterBotConfig>

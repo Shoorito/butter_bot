@@ -1,0 +1,7 @@
+<DataList data_id="TBL_Talk" created_time="2024-11-25 19:35:59">
+  <Row IDN="1" ID="MESSAGE_NORMAL_TALK" CommandType="Talk" EventGroup="TALK_LEVEL_1" EventCondition="Awake" MessageKey="MESSAGE_NORMAL_TALK_1_WakeUp" />
+  <Row IDN="2" ID="MESSAGE_NORMAL_TALK" CommandType="Talk" EventGroup="TALK_LEVEL_1" EventCondition="Awake" MessageKey="MESSAGE_NORMAL_TALK_2_WakeUp" />
+  <Row IDN="3" ID="MESSAGE_NORMAL_TALK" CommandType="Talk" EventGroup="TALK_LEVEL_1" EventCondition="Awake" MessageKey="MESSAGE_NORMAL_TALK_3_WakeUp" />
+  <Row IDN="4" ID="MESSAGE_NORMAL_TALK" CommandType="Talk" EventGroup="TALK_LEVEL_1" EventCondition="Awake" MessageKey="MESSAGE_NORMAL_TALK_4_WakeUp" />
+  <Row IDN="5" ID="MESSAGE_NORMAL_TALK" CommandType="Talk" EventGroup="TALK_LEVEL_1" EventCondition="Sleep" MessageKey="MESSAGE_NORMAL_TALK_Sleep" />
+</DataList>

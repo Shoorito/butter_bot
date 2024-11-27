@@ -1,0 +1,10 @@
+<DataList data_id="ClientText" created_time="2024-11-25 19:35:59" language="JP">
+  <TBL_Command_CommandText>
+    <Row ID="コマンド" TEXT_ID="COMMAND_INFO" />
+    <Row ID="話そう" TEXT_ID="COMMAND_TALK" />
+    <Row ID="家に帰る" TEXT_ID="COMMAND_SLEEP" />
+    <Row ID="起きて" TEXT_ID="COMMAND_WAKE_UP" />
+    <Row ID="休憩" TEXT_ID="COMMAND_REFRESH" />
+    <Row ID="友達追加" TEXT_ID="COMMAND_ADD_USABLE_USER" />
+  </TBL_Command_CommandText>
+</DataList>
